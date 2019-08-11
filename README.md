@@ -1,5 +1,5 @@
 # weibull_distribution
-Melanoma till death or relapse data was used for this implementation.
+In this implementation of the Weibull distribution, Melanoma till death or relapse data was used and the significance of the observed parameters were tested.
 
 ## Parameters of Weibull
 Newton-Raphson was conducted in order to find the parameters of the distribution.
